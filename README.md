@@ -31,9 +31,7 @@ Uygulama başlatıldığında, kullanıcılar şifreli bir dosyayı dosya diyalo
 256 
 32
  , 128 bitlik bir IV için 
-25
-6
-16
+256 üzeri 16
 256 
 16
   olası anahtar kombinasyonu) doğru kombinasyon bulunana kadar veya tüm olasılıklar tükenene kadar devam eder. İlerleme, bir QProgressBar aracılığıyla görsel olarak temsil edilerek, deşifreleme girişiminin ilerlemesi hakkında gerçek zamanlı geri bildirim sunar.
