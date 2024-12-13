@@ -1,3 +1,4 @@
+!A better version has been made. It is in the testing phase.!
 ### English Introduction
 
 This Python script showcases an advanced application developed using PyQt6, focusing on the brute-force decryption of AES-encrypted files. Leveraging the `Crypto.Cipher` module from the PyCryptodome library, the script attempts to decrypt data by systematically iterating over all possible combinations of keys and initialization vectors (IVs) within the AES encryption standard's constraints. The core of this application, the `DecryptorThread` class, extends `QThread` to perform decryption operations in a separate thread, preventing the graphical user interface (GUI) from becoming unresponsive during the computationally intensive decryption process.
